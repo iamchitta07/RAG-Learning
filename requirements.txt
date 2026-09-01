@@ -30,6 +30,6 @@ langchain-pinecone
 langchain-experimental
 rank-bm25
 wikipedia
-arxiv==1.4.8
+arxiv
 feedparser
 langgraph-cli[inmem]
